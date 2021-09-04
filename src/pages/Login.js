@@ -49,7 +49,7 @@ function Login() {
                     <p className="text-gray-700">Login to continue</p>
                 </motion.div>
                 <img 
-                    src="images/undraw_book_lover_mkck.svg" 
+                    src="images/couple.png" 
                     alt="girl with books" className="mt-8" 
                 />
                 <Formik

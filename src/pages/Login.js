@@ -18,7 +18,7 @@ function validateName(value){
 
 function vaidatePassword(value){
     let error;
-    if(value !== 'Sep6'){
+    if(value !== 'Queen'){
         error = "Incorrect Password"
     }
     return error;
